@@ -1,4 +1,4 @@
 # fluffy-meme
-Hello from the official maintainer.
+This is the secret conflicting message.
 
-Hello from other user!
+Don't tell Scot!
